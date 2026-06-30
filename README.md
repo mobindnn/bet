@@ -4,3 +4,4 @@ bertforward
 poly market
 limitless
 predict
+coin
