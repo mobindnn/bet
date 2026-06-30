@@ -6,3 +6,4 @@ limitless
 predict
 coin
 tge
+bet winner
